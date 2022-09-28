@@ -27,7 +27,7 @@ Kella õppimis web/äpp
 
 **Projekti eesmärk**
 
-Luua lastele lihtsaim viis analoog- ja digitaalkella õppimiseks 12h ja 24h 
+Luua hariduslik rakendus või mäng kella õppimiseks. Luua lastele lihtsaim viis analoog- ja digitaalkella õppimiseks 12h ja 24h. 
 
 **Kommunikatsioon**
 
