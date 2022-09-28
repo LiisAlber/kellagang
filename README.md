@@ -1,5 +1,5 @@
 # kellag-ng--Kella õppimine
-![image]()
+![image](https://github.com/Eerikpoopuu/kellagang/blob/main/Kella%20%C3%B5ppe%20idee%20tahvel.jpg?raw=true)
  
 FIGMA LINK 
 
