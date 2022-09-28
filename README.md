@@ -1,7 +1,7 @@
 # kellag-ng--Kella õppimine
 ![image](https://github.com/Eerikpoopuu/kellagang/blob/main/Kella%20%C3%B5ppe%20idee%20tahvel.jpg?raw=true)
  
-FIGMA LINK 
+FIGMA LINK: https://www.figma.com/file/8j9yzqcE4gzwdoQX9mvZtB/kellag%C3%A4ng?node-id=0%3A1
 
 
 **Liikmed:**
