@@ -4,8 +4,11 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">    
     <title>Document</title>
+  
     <style>
+      
       body {
         font-family: sans-serif;
         padding: 32px;
@@ -14,13 +17,18 @@
     </style>
   </head>
   <body>
-    <h1>Demo</h1>
+    <h1>Kella slider</h1>
     <input id="slider1" type="range" max="360" step="any" />
-    <div id="slider1value">aaa</div>
+    <input id="slider2" type="range" max="360" step="any" />
+    <div class="main"></div>
+      <div id="slider1value">aaa</div>
+      <div id="slider2value">aaa</div>
+    
     <svg width="400" height="400">
       <g transform="translate(200,200)">
         <circle r="100" stroke="black" stroke-width="5" fill="none" />
         <line id="line" x2="0" y2="100" stroke="black" stroke-width="5" />
+        <line id="line2" x2="0" y2="100" stroke="green" stroke-width="5" />
       </g>
     </svg>
     <script>
@@ -32,15 +40,26 @@
       }
 
       const slider1 = document.getElementById("slider1");
+      const slider2 = document.getElementById("slider2");
       const slider1value = document.getElementById("slider1value");
+      const slider2value = document.getElementById("slider2value");
       const line = document.getElementById("line");
+      const line2 = document.getElementById("line2");
 
       slider1.addEventListener("input", (event) => {
         const angle = parseFloat(event.target.value);
-        const point = pol2car(angle, 100);
+        const point = pol2car(angle, 80);
         line.setAttribute("x2", point.x);
         line.setAttribute("y2", point.y);
         slider1value.innerText = angle;
+      });
+
+      slider2.addEventListener("input", (event) => {
+        const angle = parseFloat(event.target.value);
+        const point = pol2car(angle, 100);
+        line2.setAttribute("x2", point.x);
+        line2.setAttribute("y2", point.y);
+        slider2value.innerText = angle;
       });
     </script>
   </body>
