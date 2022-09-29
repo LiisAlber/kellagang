@@ -71,13 +71,13 @@ Google
 **Eerik Poopuu**
 
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-- 
+- javascripti kasutan edasi
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-- 
+- eneseväljendamist
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-- 
+- javascript
 
 **Riivo Matt**
 
