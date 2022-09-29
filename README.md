@@ -8,13 +8,13 @@ FIGMA LINK: https://www.figma.com/file/8j9yzqcE4gzwdoQX9mvZtB/kellag%C3%A4ng?nod
 
 **TA-21**
 
-Eerik Poopuu
+Eerik Poopuu,
 Riivo Matt
 
 **TA - 22**
 
-Liis Alber-Jaansalu
-Siim Pildre
+Liis Alber-Jaansalu,
+Siim Pildre,
 Mari-Liis Sink
 
 **TAK - 20**
