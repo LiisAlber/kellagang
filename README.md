@@ -92,14 +92,14 @@ Google
 
 **Liis Alber-Jaansalu**
 
-1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 - 
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 - 
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-- 
+-  
 
 **Siim Pildre**
 
@@ -109,8 +109,7 @@ Google
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 - 
 
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-- 
+3. Üks tehniline oskus, mida õppisin ja endas arendasin
 
 **Mari-Liis Sink**
 
@@ -120,19 +119,17 @@ Google
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 - 
 
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-- 
- 
+3. Üks tehniline oskus, mida õppisin ja endas arendasin
+
+
 **Erik Leemet**
 
-1.Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
 - 
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 - 
 
-3. Üks tehniline oskus, mida õppisin ja endas arendasin.
-- 
-
+3. Üks tehniline oskus, mida õppisin ja endas arendasin
 
 
