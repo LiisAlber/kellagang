@@ -43,21 +43,20 @@ Suhtluskanalite loomine.
 
 Esimesel päeval me planeerisime ajakava ja panime paika vajalikud funktsioonid. 
 
-Mõtlesime läbi infosüsteemi kasutajad ja kinnitasime rollid. 
+Arendasime ideid. 
 
-Mõtlesime välja kasutuslood ja tegime andmemudeli valmis.
+
+Teisel päeval tegmime ära wireframe.
 
 ![image](https://github.com/Eerikpoopuu/kellagang/blob/main/Kella%20funktsioonide%20loomine.jpg)
 
 **2. päev**
 
-Teisel päeval tegmime ära wireframe ja andmebaasimudeli. Panime Jirasse kirja ka osa issuesi ja tegime ära ka wiki.
+
 
 **3. päev**
 
 
-
-Viimaste asjade lõpetamised.
 
 Esitlus.
 
