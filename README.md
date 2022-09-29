@@ -114,7 +114,7 @@ Google
 **Mari-Liis Sink**
 
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-- Õppisime kasutama Figma funktsioone ning need on kasuks ka uutes arendusprojektides
+- Õppisime kasutama Figma funktsioone ning need on kasuks ka uutes arendusprojektid
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
 - Meeskonnatöö
