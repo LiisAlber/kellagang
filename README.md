@@ -81,7 +81,7 @@ Google
 
 **Riivo Matt**
 
-1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
+1. Kuidas test rakendad selles projektis õpitut järgmistes arendusprojektides
 - 
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
