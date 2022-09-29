@@ -47,12 +47,11 @@ Mõtlesime läbi infosüsteemi kasutajad ja kinnitasime rollid.
 
 Mõtlesime välja kasutuslood ja tegime andmemudeli valmis.
 
+![image](https://github.com/Eerikpoopuu/kellagang/blob/main/Kella%20funktsioonide%20loomine.jpg)
 
 **2. päev**
 
 Teisel päeval tegmime ära wireframe ja andmebaasimudeli. Panime Jirasse kirja ka osa issuesi ja tegime ära ka wiki.
-
-![image](https://user-images.githubusercontent.com/93243148/156725699-16ed6a9d-fa05-41bb-978c-2c382be338e9.png)
 
 **3. päev**
 
