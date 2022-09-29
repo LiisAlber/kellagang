@@ -114,13 +114,13 @@ Google
 **Mari-Liis Sink**
 
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-- 
+- Õppisime kasutama Figma funktsioone ning need on kasuks ka uutes arendusprojektides
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-- 
+- Meeskonnatöö
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin
-
+- Figma kasutamine, Git Clone käskluse kasutamine
 
 **Erik Leemet**
 
