@@ -93,13 +93,13 @@ Google
 **Liis Alber-Jaansalu**
 
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-- 
+- Figma oskus on tulevikus kasulik, koostöö ja tööjaotuse oskus järgmiste projektide tarbeks
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-- 
+- Tiimitöö
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin.
--  
+-  Figma
 
 **Siim Pildre**
 
@@ -114,13 +114,13 @@ Google
 **Mari-Liis Sink**
 
 1. Kuidas rakendad selles projektis õpitut järgmistes arendusprojektides
-- Õppisime kasutama Figma funktsioone ning need on kasuks ka uutes arendusprojektides
+- 
 
 2. Üks pehme oskus, mida õppisin ja endas arendasin.
-- Meeskonnatöö
+- 
 
 3. Üks tehniline oskus, mida õppisin ja endas arendasin
-- Figma kasutamine, Git Clone käskluse kasutamine
+
 
 **Erik Leemet**
 
